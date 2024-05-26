@@ -12,13 +12,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clases", "clases", "{788CD6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-variables", "01-variables\01-variables.csproj", "{619EA099-449D-40C2-AC52-9DA2FB9DFAF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-input", "02-input\02-input.csproj", "{ACA05458-4330-4D1D-B1DE-B57B11B065EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-input", "02-input\02-input.csproj", "{ACA05458-4330-4D1D-B1DE-B57B11B065EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comparacion", "comparacion\comparacion.csproj", "{8812AE2B-CB99-41CD-8058-586555654E31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "comparacion", "comparacion\comparacion.csproj", "{8812AE2B-CB99-41CD-8058-586555654E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-math", "04-math\04-math.csproj", "{DDD8FF25-CF60-40D2-A8D9-72C9F204506C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-math", "04-math\04-math.csproj", "{DDD8FF25-CF60-40D2-A8D9-72C9F204506C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-matrices", "05-matrices\05-matrices.csproj", "{4238DDED-0486-4ABC-8DF4-641CAC1E83C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-matrices", "05-matrices\05-matrices.csproj", "{4238DDED-0486-4ABC-8DF4-641CAC1E83C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soloEnDevelop", "soloEnDevelop\soloEnDevelop.csproj", "{6925F38E-1A30-4999-9B90-76AAF1317122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +52,10 @@ Global
 		{4238DDED-0486-4ABC-8DF4-641CAC1E83C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4238DDED-0486-4ABC-8DF4-641CAC1E83C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4238DDED-0486-4ABC-8DF4-641CAC1E83C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6925F38E-1A30-4999-9B90-76AAF1317122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6925F38E-1A30-4999-9B90-76AAF1317122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6925F38E-1A30-4999-9B90-76AAF1317122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6925F38E-1A30-4999-9B90-76AAF1317122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
