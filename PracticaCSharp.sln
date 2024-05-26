@@ -22,6 +22,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-matrices", "05-matrices\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soloEnDevelop", "soloEnDevelop\soloEnDevelop.csproj", "{6925F38E-1A30-4999-9B90-76AAF1317122}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewFeature", "NewFeature\NewFeature.csproj", "{018B8DCD-DA88-43A9-91EF-412E87BA133F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{6925F38E-1A30-4999-9B90-76AAF1317122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6925F38E-1A30-4999-9B90-76AAF1317122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6925F38E-1A30-4999-9B90-76AAF1317122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018B8DCD-DA88-43A9-91EF-412E87BA133F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018B8DCD-DA88-43A9-91EF-412E87BA133F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018B8DCD-DA88-43A9-91EF-412E87BA133F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018B8DCD-DA88-43A9-91EF-412E87BA133F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
